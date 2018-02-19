@@ -7,7 +7,7 @@ Your quintessential React to-do list with a twist.
 For a local copy, clone the repo and from the command line: `yarn install && yarn run dev-server` (or use npm).
 
 ### Features
-* Add different options, and the Magic8BallOracle will do all the heavy lifting.
+* Add different options, and the Magic8BallOracle will do all the heavy lifting (randomly selects an option).
 
 ## Built With
 
